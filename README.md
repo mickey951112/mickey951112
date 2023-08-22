@@ -81,22 +81,22 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
     <tr>
         <td>
             <a href="https://www.metaland.game/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/metaland.png" width="250">
+                <img src="/main/portfolio/metaland.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://www.tangible.store/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/olympus.png" width="250">
+                <img src="/main/portfolio/olympus.png" width="250">
             </a>
         </td> 
         <td>
             <a href="https://pro.olympusdao.finance/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/tangible.png" width="250">
+                <img src="/main/portfolio/tangible.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://xwg.games/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/XWG_game.png" width="250">
+                <img src="/main/portfolio/XWG_game.png" width="250">
             </a>
         </td>                
     </tr>
