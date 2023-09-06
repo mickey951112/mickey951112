@@ -68,7 +68,7 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
 
 
 ### My Portfolio:
-
+            
 <table>
     <thead align="center">
         <tr>
@@ -76,10 +76,6 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
             <td>YOP</td>           
             <td>RaceFi</td>
             <td>Wealth Protocol</td>
-            <td>Metaland NFT Game</td>
-            <td>Tangible</td>           
-            <td>OlympusDao</td>
-            <td>X World Game</td>
         </tr>
     </thead>
     <tr>
@@ -102,7 +98,19 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
             <a href="https://wealthprotocol.io/" target="_blank">
                 <img src="/main/portfolio/wealth.png" width="250">
             </a>
-        </td>
+        </td>              
+    </tr>
+</table>
+<table>
+    <thead align="center">
+        <tr>
+            <td>Metaland NFT Game</td>
+            <td>Tangible</td>           
+            <td>OlympusDao</td>
+            <td>X World Game</td>
+        </tr>
+    </thead>
+    <tr>
         <td>
             <a href="https://www.metaland.game/" target="_blank">
                 <img src="/main/portfolio/metaland.png" width="250">
@@ -122,7 +130,7 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
             <a href="https://xwg.games/" target="_blank">
                 <img src="/main/portfolio/XWG_game.png" width="250">
             </a>
-        </td>                
+        </td>  
     </tr>
 </table>
 
