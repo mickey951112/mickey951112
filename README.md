@@ -13,7 +13,7 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
   <a href="https://join.skype.com/invite/O6nbMhNJwX9n">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mickey951112@gmail.com">
+  <a href="tymonglos0513@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/akira1112">
@@ -72,6 +72,10 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
 <table>
     <thead align="center">
         <tr>
+            <td>Konsta Ethereum EVM</td>
+            <td>YOP</td>           
+            <td>RaceFi</td>
+            <td>Wealth Protocol</td>
             <td>Metaland NFT Game</td>
             <td>Tangible</td>           
             <td>OlympusDao</td>
@@ -80,23 +84,43 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
     </thead>
     <tr>
         <td>
+            <a href="https://konsta.network/" target="_blank">
+                <img src="/main/portfolio/konsta.png" width="250">
+            </a>
+        </td>
+        <td>
+            <a href="https://app.yop.finance/overview" target="_blank">
+                <img src="/main/portfolio/yop.png" width="250">
+            </a>
+        </td>
+        <td>
+            <a href="https://racefi.io/" target="_blank">
+                <img src="/main/portfolio/racefi.png" width="250">
+            </a>
+        </td>
+        <td>
+            <a href="https://wealthprotocol.io/" target="_blank">
+                <img src="/main/portfolio/wealth.png" width="250">
+            </a>
+        </td>
+        <td>
             <a href="https://www.metaland.game/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/metaland.png" width="250">
+                <img src="/main/portfolio/metaland.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://www.tangible.store/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/olympus.png" width="250">
+                <img src="/main/portfolio/olympus.png" width="250">
             </a>
         </td> 
         <td>
             <a href="https://pro.olympusdao.finance/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/tangible.png" width="250">
+                <img src="/main/portfolio/tangible.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://xwg.games/" target="_blank">
-                <img src="https://github.com/mickey951112/mickey951112/tree/main/main/portfolio/XWG_game.png" width="250">
+                <img src="/main/portfolio/XWG_game.png" width="250">
             </a>
         </td>                
     </tr>
