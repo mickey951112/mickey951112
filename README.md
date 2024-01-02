@@ -2,15 +2,15 @@
 
 ## 💫 About Me:
 
-Hi, I've been working as a Full Stack blockchain developer for over 7 years, built many types of blockchain projects like NFT, Defi, DEX, DAO or something. I currently am searching for an amazing job that I really resonate within the crypto/NFT/GameFi space to forge a great life for myself and to build up my portfolio and as for casino, betting websites building. I have years of experience as a full stack software engineer, mainly using Solidity, Rust, Golang, Cosmos, React js, Vue js and Angular. I'm quite familiar with hardhat, ethers, Typescript, git, etc. My work has involved migrating projects from Truffle to Hardhat, using ethers for unit testing or modifying Solidity code. Now that I know the tooling and the basics, I'd really like to write big contracts related to DAO and DeFi. I'm senior and have rich experience in blockchain, so I'm quite sure I can get paid for that. Thanks!
+Hi, I've been working as a Sr. Full Stack developer for over 7 years, built a lot of kinds of projects like Educational Platform, Healthcare Platform, eCommerce Platform and so on. I currently am searching for an amazing job that I really resonate within the crypto/NFT/GameFi space to forge a great life for myself and to build up my portfolio and as for casino, betting websites building. I have years of experience as a full stack software engineer, mainly using JavaScript, React, Vue, Angular, Node.js, and Spring Boot. I'm quite familiar with TypeScript, Next, Nuxt, Git, Slack, AWS, Azure, etc. My work has involved migrating projects from local to Cloud Platforms like AWS, Microsoft Azure and GCP. Now that I know the tooling and the basics, I'd really like to build responsive and both user friendly and mobile friendly website. I'm senior and have rich experience in IT software development, so I'm quite sure I can get paid for that. Thanks!
 
  ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://t.me/lightningmickey">
+  <a href="https://t.me/dinosaur0324">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/O6nbMhNJwX9n">
+  <a href="https://join.skype.com/invite/Um0qle4gZwlh">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://gmail.com/mickey951112@gmail.com">
@@ -27,32 +27,23 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
 
 ### Languages and Tools:
  
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" height="20"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="20"></code>
-<code><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="20"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## Tech stack
 
-[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
-[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/-Rust-3c3c3d?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
 [![Javascript](https://img.shields.io/badge/-Javascript-227a99?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
