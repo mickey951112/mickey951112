@@ -63,16 +63,16 @@ Hi, I've been working as a Sr. Full Stack developer for over 7 years, built a lo
 <table>
     <thead align="center">
         <tr>
-            <td>Konsta Ethereum EVM</td>
+            <td>FutionFabric</td>
             <td>YOP</td>           
-            <td>RaceFi</td>
-            <td>Wealth Protocol</td>
+            <td>Metaland</td>
+            <td>X World Game</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://konsta.network/" target="_blank">
-                <img src="/main/portfolio/konsta.png" width="250">
+            <a href="https://finastra.com/" target="_blank">
+                <img src="/main/portfolio/finastra.png" width="250">
             </a>
         </td>
         <td>
@@ -81,49 +81,17 @@ Hi, I've been working as a Sr. Full Stack developer for over 7 years, built a lo
             </a>
         </td>
         <td>
-            <a href="https://racefi.io/" target="_blank">
-                <img src="/main/portfolio/racefi.png" width="250">
-            </a>
-        </td>
-        <td>
-            <a href="https://wealthprotocol.io/" target="_blank">
-                <img src="/main/portfolio/wealth.png" width="250">
-            </a>
-        </td>              
-    </tr>
-</table>
-<table>
-    <thead align="center">
-        <tr>
-            <td>Metaland NFT Game</td>
-            <td>Tangible</td>           
-            <td>OlympusDao</td>
-            <td>X World Game</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
             <a href="https://www.metaland.game/" target="_blank">
                 <img src="/main/portfolio/metaland.png" width="250">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.tangible.store/" target="_blank">
-                <img src="/main/portfolio/olympus.png" width="250">
-            </a>
-        </td> 
-        <td>
-            <a href="https://pro.olympusdao.finance/" target="_blank">
-                <img src="/main/portfolio/tangible.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://xwg.games/" target="_blank">
                 <img src="/main/portfolio/XWG_game.png" width="250">
             </a>
-        </td>  
+        </td>             
     </tr>
-</table>
+</table
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
