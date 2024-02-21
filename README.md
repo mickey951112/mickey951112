@@ -1,4 +1,4 @@
-## Hey there 👋, you stumbled upon the profile of a Full Stack Developer ## 
+## Hey there 👋, you stumbled upon the profile of a Blockchain Full Stack Developer ## 
 
 ## 💫 About Me:
 
